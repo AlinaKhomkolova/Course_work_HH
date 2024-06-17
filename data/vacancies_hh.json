@@ -1,1723 +1,1002 @@
-{
-    "items": [
-        {
-            "id": "100620264",
-            "premium": false,
-            "name": "Диспетчер чатов (в Яндекс)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "113",
-                "name": "Россия",
-                "url": "https://api.hh.ru/areas/113"
-            },
-            "salary": {
-                "from": 30000,
-                "to": 44000,
-                "currency": "RUR",
-                "gross": true
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-29T15:44:58+0300",
-            "created_at": "2024-05-29T15:44:58+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100620264",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/100620264?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/100620264",
-            "relations": [],
-            "employer": {
-                "id": "9498120",
-                "name": "Яндекс Команда для бизнеса",
-                "url": "https://api.hh.ru/employers/9498120",
-                "alternate_url": "https://hh.ru/employer/9498120",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
-                    "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
-                "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "remote",
-                "name": "Удаленная работа"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [
-                {
-                    "id": "start_after_sixteen",
-                    "name": "Можно начинать работать после 16:00"
-                }
-            ],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "40",
-                    "name": "Другое"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "100530946",
-            "premium": false,
-            "name": "Администратор магазина одежды (без опыта )выплаты каждую неделю",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "2",
-                "name": "Санкт-Петербург",
-                "url": "https://api.hh.ru/areas/2"
-            },
-            "salary": {
-                "from": 120000,
-                "to": null,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-28T20:02:09+0300",
-            "created_at": "2024-05-28T20:02:09+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100530946",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/100530946?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/100530946",
-            "relations": [],
-            "employer": {
-                "id": "3933122",
-                "name": "Валова Екатерина Дмитриевна",
-                "url": "https://api.hh.ru/employers/3933122",
-                "alternate_url": "https://hh.ru/employer/3933122",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1133725.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo/6155489.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6155490.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3933122",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Вы ответственно и доброжелательно готовы выполнять поставленные задачи.",
-                "responsibility": "Подготовить/обустроить торговые помещения под выставку. ( расставить инвентарь, вывесить свет, развесить товар по продуманной концепции команды. ( вы вступаете в команду..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "9",
-                    "name": "Администратор магазина, администратор торгового зала"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "100633515",
-            "premium": false,
-            "name": "Менеджер чатов, удаленно (в Яндекс)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "113",
-                "name": "Россия",
-                "url": "https://api.hh.ru/areas/113"
-            },
-            "salary": {
-                "from": 30000,
-                "to": 44000,
-                "currency": "RUR",
-                "gross": true
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-29T17:51:08+0300",
-            "created_at": "2024-05-29T17:51:08+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100633515",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/100633515?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/100633515",
-            "relations": [],
-            "employer": {
-                "id": "9498120",
-                "name": "Яндекс Команда для бизнеса",
-                "url": "https://api.hh.ru/employers/9498120",
-                "alternate_url": "https://hh.ru/employer/9498120",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
-                    "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
-                "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "remote",
-                "name": "Удаленная работа"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [
-                {
-                    "id": "start_after_sixteen",
-                    "name": "Можно начинать работать после 16:00"
-                }
-            ],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "40",
-                    "name": "Другое"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "99792511",
-            "premium": false,
-            "name": "Менеджер по продажам (аренда инструментов)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "4176",
-                "name": "Высокая Гора",
-                "url": "https://api.hh.ru/areas/4176"
-            },
-            "salary": {
-                "from": 85000,
-                "to": null,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": {
-                "city": "село Высокая Гора",
-                "street": "Большая Красная улица",
-                "building": "231",
-                "lat": 55.92316,
-                "lng": 49.320276,
-                "description": null,
-                "raw": "село Высокая Гора, Большая Красная улица, 231",
-                "metro": null,
-                "metro_stations": [],
-                "id": "15371694"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-22T08:02:24+0300",
-            "created_at": "2024-05-22T08:02:24+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99792511",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/99792511?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/99792511",
-            "relations": [],
-            "employer": {
-                "id": "1060821",
-                "name": "Рост Развитие Решение",
-                "url": "https://api.hh.ru/employers/1060821",
-                "alternate_url": "https://hh.ru/employer/1060821",
-                "logo_urls": {
-                    "90": "https://img.hhcdn.ru/employer-logo/874868.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/874869.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/85446.jpg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Опыт работы в продажах (холодный поиск). Мобильность.",
-                "responsibility": "Привлечение новых клиентов, ведение переговоров. Выстраивание долгосрочных отношений. Ведение текущих клиентов. Контроль оплат и отгрузок. Работа разъездного характера."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "70",
-                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "От 1 года до 3 лет"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101662351",
-            "premium": false,
-            "name": "Комплектовщик на склад (в Москве)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "2",
-                "name": "Санкт-Петербург",
-                "url": "https://api.hh.ru/areas/2"
-            },
-            "salary": {
-                "from": 130000,
-                "to": 350000,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-13T17:35:50+0300",
-            "created_at": "2024-06-13T17:35:50+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101662351",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101662351?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101662351",
-            "relations": [],
-            "employer": {
-                "id": "5740840",
-                "name": "Ваши Люди",
-                "url": "https://api.hh.ru/employers/5740840",
-                "alternate_url": "https://hh.ru/employer/5740840",
-                "logo_urls": {
-                    "90": "https://img.hhcdn.ru/employer-logo/4050659.png",
-                    "240": "https://img.hhcdn.ru/employer-logo/4050660.png",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/902493.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5740840",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Опыт работы не требуются. Желание работать и зарабатывать достойные деньги.",
-                "responsibility": "Упаковка готовой продукции. - Комплектация, упаковка, сортировка заказов."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "flyInFlyOut",
-                "name": "Вахтовый метод"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": true,
-            "professional_roles": [
-                {
-                    "id": "131",
-                    "name": "Упаковщик, комплектовщик"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "100313010",
-            "premium": false,
-            "name": "Администратор в магазин одежды",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "2",
-                "name": "Санкт-Петербург",
-                "url": "https://api.hh.ru/areas/2"
-            },
-            "salary": {
-                "from": 90000,
-                "to": 130000,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-27T10:05:33+0300",
-            "created_at": "2024-05-27T10:05:33+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100313010",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/100313010?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/100313010",
-            "relations": [],
-            "employer": {
-                "id": "3933122",
-                "name": "Валова Екатерина Дмитриевна",
-                "url": "https://api.hh.ru/employers/3933122",
-                "alternate_url": "https://hh.ru/employer/3933122",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1133725.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo/6155489.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6155490.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3933122",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": null,
-                "responsibility": "Консультирование клиентов по товару и продажи на выставке."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "9",
-                    "name": "Администратор магазина, администратор торгового зала"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101752229",
-            "premium": false,
-            "name": "Подсобный рабочий",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "1002",
-                "name": "Минск",
-                "url": "https://api.hh.ru/areas/1002"
-            },
-            "salary": {
-                "from": 1200,
-                "to": null,
-                "currency": "BYR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-11T16:15:45+0300",
-            "created_at": "2024-06-11T16:15:45+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101752229",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101752229?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101752229",
-            "relations": [],
-            "employer": {
-                "id": "783891",
-                "name": "Голографическая индустрия",
-                "url": "https://api.hh.ru/employers/783891",
-                "alternate_url": "https://hh.ru/employer/783891",
-                "logo_urls": {
-                    "90": "https://img.hhcdn.ru/employer-logo/912149.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/912150.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/138330.jpg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=783891",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Ответственность, исполнительность, добросовестность.",
-                "responsibility": "Упаковка готовой продукции. Выполнение вспомогательных работ на производственном участке. Погрузка, выгрузка, транспортировка на тележках, сортировка и укладка различных грузов. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "shift",
-                "name": "Сменный график"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "102",
-                    "name": "Разнорабочий"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101513064",
-            "premium": false,
-            "name": "Продавец",
-            "department": {
-                "id": "1942330-1942330-magaz",
-                "name": "Пятёрочка. Команда магазинов"
-            },
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "113",
-                "name": "Россия",
-                "url": "https://api.hh.ru/areas/113"
-            },
-            "salary": {
-                "from": 30000,
-                "to": null,
-                "currency": "RUR",
-                "gross": true
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-07T15:26:34+0300",
-            "created_at": "2024-06-07T15:26:34+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101513064",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101513064?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101513064",
-            "relations": [],
-            "employer": {
-                "id": "1942330",
-                "name": "Пятёрочка",
-                "url": "https://api.hh.ru/employers/1942330",
-                "alternate_url": "https://hh.ru/employer/1942330",
-                "logo_urls": {
-                    "90": "https://img.hhcdn.ru/employer-logo/6529981.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6529982.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1227385.jpg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1942330",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Желание работать с покупателями, остальному научим!",
-                "responsibility": "Работа в торговом зале. Консультация покупателей. Выкладка и отслеживание сроков годности товаров."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "flexible",
-                "name": "Гибкий график"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "97",
-                    "name": "Продавец-консультант, продавец-кассир"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "part",
-                "name": "Частичная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "99019676",
-            "premium": false,
-            "name": "Контролер-приемщик (4 разряд)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "1002",
-                "name": "Минск",
-                "url": "https://api.hh.ru/areas/1002"
-            },
-            "salary": null,
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": {
-                "city": "Минск",
-                "street": "пер.Калинина",
-                "building": "12",
-                "lat": 53.930767,
-                "lng": 27.607223,
-                "description": null,
-                "raw": "Минск, пер.Калинина, 12",
-                "metro": {
-                    "station_name": "Парк Челюскинцев",
-                    "line_name": "Московская",
-                    "station_id": "62.406",
-                    "line_id": "62",
-                    "lat": 53.924214,
-                    "lng": 27.613646
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Парк Челюскинцев",
-                        "line_name": "Московская",
-                        "station_id": "62.406",
-                        "line_id": "62",
-                        "lat": 53.924214,
-                        "lng": 27.613646
-                    }
-                ],
-                "id": "75822"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-15T10:53:14+0300",
-            "created_at": "2024-05-15T10:53:14+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99019676",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/99019676?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/99019676",
-            "relations": [],
-            "employer": {
-                "id": "783891",
-                "name": "Голографическая индустрия",
-                "url": "https://api.hh.ru/employers/783891",
-                "alternate_url": "https://hh.ru/employer/783891",
-                "logo_urls": {
-                    "90": "https://img.hhcdn.ru/employer-logo/912149.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/912150.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/138330.jpg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=783891",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Среднее специальное образование (полиграфическое) будет преимуществом. Уверенный пользователь ПК. Внимательность, ответственность.",
-                "responsibility": "Контролировать качество выпускаемой на предприятии готовой продукции и полуфабрикатов. Проводить входной контроль материалов, поступивших на предприятие. Проверять визуально качество рабочей..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "shift",
-                "name": "Сменный график"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "149",
-                    "name": "Контролёр ОТК"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "99549487",
-            "premium": false,
-            "name": "Продавец-консультант бьюти-продукции",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "2",
-                "name": "Санкт-Петербург",
-                "url": "https://api.hh.ru/areas/2"
-            },
-            "salary": {
-                "from": 50000,
-                "to": 150000,
-                "currency": "RUR",
-                "gross": true
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": {
-                "city": "Санкт-Петербург",
-                "street": "Центральный район, улица Некрасова",
-                "building": "34",
-                "lat": 59.938955,
-                "lng": 30.358844,
-                "description": null,
-                "raw": "Санкт-Петербург, Центральный район, улица Некрасова, 34",
-                "metro": {
-                    "station_name": "Площадь Восстания",
-                    "line_name": "Кировско-Выборгская",
-                    "station_id": "14.199",
-                    "line_id": "14",
-                    "lat": 59.930279,
-                    "lng": 30.361069
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Площадь Восстания",
-                        "line_name": "Кировско-Выборгская",
-                        "station_id": "14.199",
-                        "line_id": "14",
-                        "lat": 59.930279,
-                        "lng": 30.361069
-                    }
-                ],
-                "id": "528969"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-13T10:30:59+0300",
-            "created_at": "2024-06-13T10:30:59+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99549487",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/99549487?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/99549487",
-            "relations": [],
-            "employer": {
-                "id": "1910225",
-                "name": "Aurum Queen",
-                "url": "https://api.hh.ru/employers/1910225",
-                "alternate_url": "https://hh.ru/employer/1910225",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/709384.png",
-                    "90": "https://img.hhcdn.ru/employer-logo/3278652.png",
-                    "240": "https://img.hhcdn.ru/employer-logo/3278653.png"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1910225",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Человека, который обожает продажи и общение с людьми. Того, кто хочет выйти на новый уровень профессионализма и дохода. ",
-                "responsibility": "Продавать товары премиум-класса из Японии, Кореи, Англии и Германии. Заботиться о каждом клиенте и посетителе магазина. Работать с постоянными..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "97",
-                    "name": "Продавец-консультант, продавец-кассир"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "100520929",
-            "premium": false,
-            "name": "Оператор колл-центра (в Яндекс)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "113",
-                "name": "Россия",
-                "url": "https://api.hh.ru/areas/113"
-            },
-            "salary": null,
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-28T17:31:55+0300",
-            "created_at": "2024-05-28T17:31:55+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100520929",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/100520929?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/100520929",
-            "relations": [],
-            "employer": {
-                "id": "9498120",
-                "name": "Яндекс Команда для бизнеса",
-                "url": "https://api.hh.ru/employers/9498120",
-                "alternate_url": "https://hh.ru/employer/9498120",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
-                    "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
-                "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "remote",
-                "name": "Удаленная работа"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "83",
-                    "name": "Оператор call-центра, специалист контактного центра"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "99952296",
-            "premium": false,
-            "name": "Менеджер по работе с клиентами Банка",
-            "department": {
-                "id": "1049556-1049556-work",
-                "name": "Почта Банк. Работа с клиентами"
-            },
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "113",
-                "name": "Россия",
-                "url": "https://api.hh.ru/areas/113"
-            },
-            "salary": {
-                "from": 50000,
-                "to": 70000,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-23T13:26:38+0300",
-            "created_at": "2024-05-23T13:26:38+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=99952296",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/99952296?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/99952296",
-            "relations": [],
-            "employer": {
-                "id": "1049556",
-                "name": "Почта Банк",
-                "url": "https://api.hh.ru/employers/1049556",
-                "alternate_url": "https://hh.ru/employer/1049556",
-                "logo_urls": {
-                    "240": "https://img.hhcdn.ru/employer-logo/1722907.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/320135.jpg",
-                    "90": "https://img.hhcdn.ru/employer-logo/1722906.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1049556",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Ты будешь:",
-                "responsibility": "помогать нашим клиентам выбирать оптимальные продукты. -консультировать клиентов по продуктам банка. Почта Банк #кредитные продукты #продукты банка #Менеджер по работе..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "70",
-                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101862102",
-            "premium": false,
-            "name": "Менеджер поддержки Яндекс (звонки, чаты)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "113",
-                "name": "Россия",
-                "url": "https://api.hh.ru/areas/113"
-            },
-            "salary": {
-                "from": 30000,
-                "to": 44000,
-                "currency": "RUR",
-                "gross": true
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-13T14:44:08+0300",
-            "created_at": "2024-06-13T14:44:08+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101862102",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101862102?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101862102",
-            "relations": [],
-            "employer": {
-                "id": "9498120",
-                "name": "Яндекс Команда для бизнеса",
-                "url": "https://api.hh.ru/employers/9498120",
-                "alternate_url": "https://hh.ru/employer/9498120",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1121425.jpg",
-                    "90": "https://img.hhcdn.ru/employer-logo/6106293.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6106294.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9498120",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Способен работать в команде. Способен принимать решения самостоятельно. Готов учиться и узнавать новое. Опыт работы в колл-центре или службе...",
-                "responsibility": "Работать с клиентами или партнерами для решения разнообразных ситуаций. Совершать звонки по их обращениям и давать письменные ответы. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "remote",
-                "name": "Удаленная работа"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "40",
-                    "name": "Другое"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101488736",
-            "premium": false,
-            "name": "Менеджер проектных продаж (Мастерская Тепла)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "53",
-                "name": "Краснодар",
-                "url": "https://api.hh.ru/areas/53"
-            },
-            "salary": {
-                "from": 100000,
-                "to": null,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-07T11:16:15+0300",
-            "created_at": "2024-06-07T11:16:15+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101488736",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101488736?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101488736",
-            "relations": [],
-            "employer": {
-                "id": "827187",
-                "name": "BY business group",
-                "url": "https://api.hh.ru/employers/827187",
-                "alternate_url": "https://hh.ru/employer/827187",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/942457.jpg",
-                    "240": "https://img.hhcdn.ru/employer-logo/4210365.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo/4210364.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=827187",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Высшее или среднее техническое образование будет преимуществом. Опыт работы от одного года (Вашим преимуществом будет опыт работы в продажах, в...",
-                "responsibility": "Комплексные поставки оборудования для систем отопления, водоснабжения и канализации. Проектирование ОВ, АОВ, ИТП. Монтаж ОВ, АОВ, ИТП. Продажа, поверка и..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "70",
-                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "От 1 года до 3 лет"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101246708",
-            "premium": false,
-            "name": "Специалист по общению с клиентами (удалённо)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "53",
-                "name": "Краснодар",
-                "url": "https://api.hh.ru/areas/53"
-            },
-            "salary": {
-                "from": 55000,
-                "to": null,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-04T11:32:27+0300",
-            "created_at": "2024-06-04T11:32:27+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101246708",
-            "branding": {
-                "type": "MAKEUP",
-                "tariff": null
-            },
-            "show_logo_in_search": true,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101246708?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101246708",
-            "relations": [],
-            "employer": {
-                "id": "2324020",
-                "name": "Точка",
-                "url": "https://api.hh.ru/employers/2324020",
-                "alternate_url": "https://hh.ru/employer/2324020",
-                "logo_urls": {
-                    "240": "https://img.hhcdn.ru/employer-logo/3414734.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo/3414733.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/743443.jpg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2324020",
-                "accredited_it_employer": true,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "У тебя есть опыт работы с людьми.",
-                "responsibility": "Помогать клиентам Точки с любыми вопросами в чате и по телефону. Заказать документы в приложении, сделать перевод или подсказать хороший..."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "121",
-                    "name": "Специалист технической поддержки"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "between1And3",
-                "name": "От 1 года до 3 лет"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "100041868",
-            "premium": false,
-            "name": "Менеджер по продажам",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "1",
-                "name": "Москва",
-                "url": "https://api.hh.ru/areas/1"
-            },
-            "salary": {
-                "from": 85000,
-                "to": 100000,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-24T09:54:40+0300",
-            "created_at": "2024-05-24T09:54:40+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100041868",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/100041868?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/100041868",
-            "relations": [],
-            "employer": {
-                "id": "10726657",
-                "name": "Биософт",
-                "url": "https://api.hh.ru/employers/10726657",
-                "alternate_url": "https://hh.ru/employer/10726657",
-                "logo_urls": {
-                    "90": "https://img.hhcdn.ru/employer-logo/6528153.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/6528154.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/1226928.jpg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10726657",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Опыт работы в продажах будет Вашим преимуществом, но не является обязательным условием. Грамотная устная и письменная речь. Развитые коммуникативные навыки. ",
-                "responsibility": "Осуществление телефонных переговоров с клиентами компании. Презентация продуктов и услуг наших Заказчиков. Ведение деловых переписок по корпоративным мессенджерам с клиентами. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "70",
-                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101629101",
-            "premium": false,
-            "name": "Менеджер по продажам (Digital)",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "1",
-                "name": "Москва",
-                "url": "https://api.hh.ru/areas/1"
-            },
-            "salary": {
-                "from": 70000,
-                "to": null,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-10T12:12:51+0300",
-            "created_at": "2024-06-10T12:12:51+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101629101",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101629101?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101629101",
-            "relations": [],
-            "employer": {
-                "id": "827187",
-                "name": "BY business group",
-                "url": "https://api.hh.ru/employers/827187",
-                "alternate_url": "https://hh.ru/employer/827187",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/942457.jpg",
-                    "240": "https://img.hhcdn.ru/employer-logo/4210365.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo/4210364.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=827187",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Если вы активный, амбициозный и трудолюбивый человек, умеете работать в команде и хотите расти карьерно и как личность!",
-                "responsibility": "Совершение исходящих звонков клиентам. Работа по теплой базе, без поиска и привлечения клиентов. Консультация клиентов. Ведение клиента по воронке продаж. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "remote",
-                "name": "Удаленная работа"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "70",
-                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "between1And3",
-                "name": "От 1 года до 3 лет"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "100372911",
-            "premium": false,
-            "name": "Менеджер по продажам",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "159",
-                "name": "Астана",
-                "url": "https://api.hh.ru/areas/159"
-            },
-            "salary": {
-                "from": 200000,
-                "to": 1000000,
-                "currency": "KZT",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-05-27T14:55:40+0300",
-            "created_at": "2024-05-27T14:55:40+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=100372911",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/100372911?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/100372911",
-            "relations": [],
-            "employer": {
-                "id": "4424531",
-                "name": "ГЕОНА.KAZ",
-                "url": "https://api.hh.ru/employers/4424531",
-                "alternate_url": "https://hh.ru/employer/4424531",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/947168.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/4229209.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo/4229208.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4424531",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Знание казахского и русского языков. Умение продавать.",
-                "responsibility": "Продажа дверей среднего и высокого сегмента розничным клиентам в самом большом Дверном Центре Казахстана. Консультирование клиентов. Оформление заказов."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "70",
-                    "name": "Менеджер по продажам, менеджер по работе с клиентами"
-                }
-            ],
-            "accept_incomplete_resumes": false,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101828531",
-            "premium": false,
-            "name": "Личный водитель",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "1",
-                "name": "Москва",
-                "url": "https://api.hh.ru/areas/1"
-            },
-            "salary": {
-                "from": 130000,
-                "to": 150000,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": null,
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-13T09:57:54+0300",
-            "created_at": "2024-06-13T09:57:54+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101828531",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101828531?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101828531",
-            "relations": [],
-            "employer": {
-                "id": "2207396",
-                "name": "Мианстрой",
-                "url": "https://api.hh.ru/employers/2207396",
-                "alternate_url": "https://hh.ru/employer/2207396",
-                "logo_urls": {
-                    "original": "https://img.hhcdn.ru/employer-logo-original/822459.jpg",
-                    "240": "https://img.hhcdn.ru/employer-logo/3730724.jpeg",
-                    "90": "https://img.hhcdn.ru/employer-logo/3730723.jpeg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2207396",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Опыт работы личным водителем от 3-х лет. Доброжелательность, пунктуальность, исполнительность, чистоплотность, тактичность, жизнерадостность, стрессоустойчивость. Хорошее знание дорог Москвы без...",
-                "responsibility": "Подача автомобиля в назначенное время. Выполнение отдельных поручений в рамках служебных отношений. Содержание автомобиля в технически исправном состоянии. "
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "21",
-                    "name": "Водитель"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "between3And6",
-                "name": "От 3 до 6 лет"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        },
-        {
-            "id": "101097037",
-            "premium": false,
-            "name": "Сборщик-комплектовщик",
-            "department": null,
-            "has_test": false,
-            "response_letter_required": false,
-            "area": {
-                "id": "88",
-                "name": "Казань",
-                "url": "https://api.hh.ru/areas/88"
-            },
-            "salary": {
-                "from": 45000,
-                "to": null,
-                "currency": "RUR",
-                "gross": false
-            },
-            "type": {
-                "id": "open",
-                "name": "Открытая"
-            },
-            "address": {
-                "city": "Казань",
-                "street": "Тихорецкая улица",
-                "building": "7к35",
-                "lat": 55.72928,
-                "lng": 49.121074,
-                "description": null,
-                "raw": "Казань, Тихорецкая улица, 7к35",
-                "metro": {
-                    "station_name": "Аметьево",
-                    "line_name": "Центральная",
-                    "station_id": "49.275",
-                    "line_id": "49",
-                    "lat": 55.765346,
-                    "lng": 49.165083
-                },
-                "metro_stations": [
-                    {
-                        "station_name": "Аметьево",
-                        "line_name": "Центральная",
-                        "station_id": "49.275",
-                        "line_id": "49",
-                        "lat": 55.765346,
-                        "lng": 49.165083
-                    }
-                ],
-                "id": "13204489"
-            },
-            "response_url": null,
-            "sort_point_distance": null,
-            "published_at": "2024-06-03T11:26:42+0300",
-            "created_at": "2024-06-03T11:26:42+0300",
-            "archived": false,
-            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=101097037",
-            "show_logo_in_search": null,
-            "insider_interview": null,
-            "url": "https://api.hh.ru/vacancies/101097037?host=hh.ru",
-            "alternate_url": "https://hh.ru/vacancy/101097037",
-            "relations": [],
-            "employer": {
-                "id": "1060821",
-                "name": "Рост Развитие Решение",
-                "url": "https://api.hh.ru/employers/1060821",
-                "alternate_url": "https://hh.ru/employer/1060821",
-                "logo_urls": {
-                    "90": "https://img.hhcdn.ru/employer-logo/874868.jpeg",
-                    "240": "https://img.hhcdn.ru/employer-logo/874869.jpeg",
-                    "original": "https://img.hhcdn.ru/employer-logo-original/85446.jpg"
-                },
-                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1060821",
-                "accredited_it_employer": false,
-                "trusted": true
-            },
-            "snippet": {
-                "requirement": "Ответственный подход к обязанностям. Внимательность и аккуратность.",
-                "responsibility": "Сборка товара по накладным."
-            },
-            "contacts": null,
-            "schedule": {
-                "id": "fullDay",
-                "name": "Полный день"
-            },
-            "working_days": [],
-            "working_time_intervals": [],
-            "working_time_modes": [],
-            "accept_temporary": false,
-            "professional_roles": [
-                {
-                    "id": "131",
-                    "name": "Упаковщик, комплектовщик"
-                }
-            ],
-            "accept_incomplete_resumes": true,
-            "experience": {
-                "id": "noExperience",
-                "name": "Нет опыта"
-            },
-            "employment": {
-                "id": "full",
-                "name": "Полная занятость"
-            },
-            "adv_response_url": null,
-            "is_adv_vacancy": false,
-            "adv_context": null
-        }
-    ],
-    "found": 1674100,
-    "pages": 100,
-    "page": 0,
-    "per_page": 20,
-    "clusters": null,
-    "arguments": null,
-    "fixes": null,
-    "suggests": null,
-    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true"
-}
+[
+    {
+        "name": "Персональный водитель к руководителю",
+        "area": "Москва",
+        "salary_from": 120000,
+        "salary_to": 120000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T15:17:44+0300",
+        "alternate_url": "https://hh.ru/vacancy/101747484"
+    },
+    {
+        "name": "Личный водитель руководителя",
+        "area": "Ташкент",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T09:42:09+0300",
+        "alternate_url": "https://hh.ru/vacancy/101704595"
+    },
+    {
+        "name": "Помощник бизнесмена ТОП-уровня",
+        "area": "Москва",
+        "salary_from": 250000,
+        "salary_to": 300000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-30T11:14:37+0300",
+        "alternate_url": "https://hh.ru/vacancy/100696954"
+    },
+    {
+        "name": "Менеджер по работе с ключевыми клиентами малого бизнеса",
+        "area": "Москва",
+        "salary_from": 168200,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-03T18:08:30+0300",
+        "alternate_url": "https://hh.ru/vacancy/100055372"
+    },
+    {
+        "name": "Мобильный кассир в магазин здорового питания",
+        "area": "Москва",
+        "salary_from": 65000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-01T06:25:16+0300",
+        "alternate_url": "https://hh.ru/vacancy/100884605"
+    },
+    {
+        "name": "Руководитель отдела продаж",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": 500000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-03T16:20:31+0300",
+        "alternate_url": "https://hh.ru/vacancy/101150860"
+    },
+    {
+        "name": "Директор по персоналу",
+        "area": "Москва",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-09T20:47:43+0300",
+        "alternate_url": "https://hh.ru/vacancy/101587209"
+    },
+    {
+        "name": "Семейный персональный водитель",
+        "area": "Москва",
+        "salary_from": 110000,
+        "salary_to": 120000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-15T18:06:15+0300",
+        "alternate_url": "https://hh.ru/vacancy/101796302"
+    },
+    {
+        "name": "HR Директор(iGaming agency)",
+        "area": "Алматы",
+        "salary_from": 1000000,
+        "salary_to": 2000000,
+        "currency": "KZT",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-09T22:39:04+0300",
+        "alternate_url": "https://hh.ru/vacancy/101589147"
+    },
+    {
+        "name": "Продавец-консультант в LAZURIT",
+        "area": "Санкт-Петербург",
+        "salary_from": 65000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-14T10:21:48+0300",
+        "alternate_url": "https://hh.ru/vacancy/98307748"
+    },
+    {
+        "name": "Персональный водитель",
+        "area": "Москва",
+        "salary_from": 90000,
+        "salary_to": 100000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-05-20T18:29:52+0300",
+        "alternate_url": "https://hh.ru/vacancy/99617742"
+    },
+    {
+        "name": "Исполнительный директор",
+        "area": "Москва",
+        "salary_from": 350000,
+        "salary_to": 1000000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-12T14:25:38+0300",
+        "alternate_url": "https://hh.ru/vacancy/101790024"
+    },
+    {
+        "name": "Руководитель службы безопасности",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-10T10:55:43+0300",
+        "alternate_url": "https://hh.ru/vacancy/101620598"
+    },
+    {
+        "name": "Frontend разработчик (удаленно)",
+        "area": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-15T19:40:23+0300",
+        "alternate_url": "https://hh.ru/vacancy/102000058"
+    },
+    {
+        "name": "Директор регионального представительства",
+        "area": "Москва",
+        "salary_from": 400000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-16T07:18:25+0300",
+        "alternate_url": "https://hh.ru/vacancy/101601014"
+    },
+    {
+        "name": "Менеджер по продажам",
+        "area": "Москва",
+        "salary_from": 120000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-07T14:14:33+0300",
+        "alternate_url": "https://hh.ru/vacancy/101505640"
+    },
+    {
+        "name": "Асисстент для работы в телеграм",
+        "area": "Ярославль",
+        "salary_from": null,
+        "salary_to": 10000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-10T07:27:42+0300",
+        "alternate_url": "https://hh.ru/vacancy/101601508"
+    },
+    {
+        "name": "Администратор офиса",
+        "area": "Москва",
+        "salary_from": 155000,
+        "salary_to": 155000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T11:15:56+0300",
+        "alternate_url": "https://hh.ru/vacancy/101720989"
+    },
+    {
+        "name": "Управляющий на виллу в Дубай",
+        "area": "Москва",
+        "salary_from": 480000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-14T11:46:50+0300",
+        "alternate_url": "https://hh.ru/vacancy/101924090"
+    },
+    {
+        "name": "Бухгалтер в единственном лице (Удаленно | ИП УСН 6%)",
+        "area": "Москва",
+        "salary_from": 70000,
+        "salary_to": 100000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-15T11:38:30+0300",
+        "alternate_url": "https://hh.ru/vacancy/101988408"
+    },
+    {
+        "name": "Директор / Член совета директоров / Вице-президент",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-07T12:12:31+0300",
+        "alternate_url": "https://hh.ru/vacancy/101494113"
+    },
+    {
+        "name": "Директор по проектам в госкорпорацию",
+        "area": "Москва",
+        "salary_from": 1000000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-05-27T11:13:12+0300",
+        "alternate_url": "https://hh.ru/vacancy/100328416"
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": 130000,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-10T13:01:08+0300",
+        "alternate_url": "https://hh.ru/vacancy/101634289"
+    },
+    {
+        "name": "Помощник руководителя",
+        "area": "Новороссийск",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-13T16:25:26+0300",
+        "alternate_url": "https://hh.ru/vacancy/101873366"
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-10T09:51:10+0300",
+        "alternate_url": "https://hh.ru/vacancy/101613423"
+    },
+    {
+        "name": "Офис-менеджер в отдел закупок / Начинающий специалист",
+        "area": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": 90000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-30T12:34:09+0300",
+        "alternate_url": "https://hh.ru/vacancy/100707138"
+    },
+    {
+        "name": "Личный (семейный) водитель",
+        "area": "Ижевск",
+        "salary_from": 50000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-06T09:03:06+0300",
+        "alternate_url": "https://hh.ru/vacancy/101392333"
+    },
+    {
+        "name": "Помощник руководителя",
+        "area": "Красноярск",
+        "salary_from": 100000,
+        "salary_to": 120000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-07T18:14:28+0300",
+        "alternate_url": "https://hh.ru/vacancy/101525015"
+    },
+    {
+        "name": "Junior Product Manager в команду подписок Салют ОС Цифровые поверхности Салют (SberDevices)",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-27T17:08:54+0300",
+        "alternate_url": "https://hh.ru/vacancy/100396060"
+    },
+    {
+        "name": "SMM менеджер",
+        "area": "Алматы",
+        "salary_from": 400000,
+        "salary_to": 500000,
+        "currency": "KZT",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-10T13:31:24+0300",
+        "alternate_url": "https://hh.ru/vacancy/101637355"
+    },
+    {
+        "name": "Диспетчер автотранспортного участка",
+        "area": "Кемерово",
+        "salary_from": 336000,
+        "salary_to": 336000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T13:10:07+0300",
+        "alternate_url": "https://hh.ru/vacancy/101933454"
+    },
+    {
+        "name": "Руководитель региона (Сибирь)",
+        "area": "Новосибирск",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T18:02:25+0300",
+        "alternate_url": "https://hh.ru/vacancy/101961629"
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "area": "Санкт-Петербург",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-10T09:24:19+0300",
+        "alternate_url": "https://hh.ru/vacancy/101610122"
+    },
+    {
+        "name": "Водитель",
+        "area": "Минск",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-12T11:26:47+0300",
+        "alternate_url": "https://hh.ru/vacancy/101783179"
+    },
+    {
+        "name": "Менеджер по Входящим Заявкам (Удаленно)",
+        "area": "Самара",
+        "salary_from": null,
+        "salary_to": 50000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-05-22T19:01:49+0300",
+        "alternate_url": "https://hh.ru/vacancy/99871082"
+    },
+    {
+        "name": "Шеф-повар",
+        "area": "Алматы",
+        "salary_from": 800000,
+        "salary_to": 1000000,
+        "currency": "KZT",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T20:06:09+0300",
+        "alternate_url": "https://hh.ru/vacancy/101762310"
+    },
+    {
+        "name": "Директор по информационным технологиям",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-13T12:11:26+0300",
+        "alternate_url": "https://hh.ru/vacancy/101844527"
+    },
+    {
+        "name": "Менеджер по продажам в телеграм",
+        "area": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T11:44:47+0300",
+        "alternate_url": "https://hh.ru/vacancy/101923957"
+    },
+    {
+        "name": "Менеджер по персоналу",
+        "area": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-23T11:21:11+0300",
+        "alternate_url": "https://hh.ru/vacancy/99936425"
+    },
+    {
+        "name": "Ассистент руководителя в студию разработки мобильных игр",
+        "area": "Санкт-Петербург",
+        "salary_from": 20000,
+        "salary_to": 55000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-05-26T11:08:27+0300",
+        "alternate_url": "https://hh.ru/vacancy/100219663"
+    },
+    {
+        "name": "Ведущий менеджер по продажам и ключевым клиентам",
+        "area": "Алматы",
+        "salary_from": null,
+        "salary_to": 800000,
+        "currency": "KZT",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-05T08:33:30+0300",
+        "alternate_url": "https://hh.ru/vacancy/101311464"
+    },
+    {
+        "name": "Помощник управляющего частным домом",
+        "area": "Москва",
+        "salary_from": 180000,
+        "salary_to": 200000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-05-24T21:08:47+0300",
+        "alternate_url": "https://hh.ru/vacancy/100112875"
+    },
+    {
+        "name": "Заместитель начальника производства",
+        "area": "Тула",
+        "salary_from": 200000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-13T16:16:20+0300",
+        "alternate_url": "https://hh.ru/vacancy/101872412"
+    },
+    {
+        "name": "Администратор",
+        "area": "Чехов",
+        "salary_from": 65000,
+        "salary_to": 70000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-14T11:35:55+0300",
+        "alternate_url": "https://hh.ru/vacancy/101633658"
+    },
+    {
+        "name": "Технический директор",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T10:49:48+0300",
+        "alternate_url": "https://hh.ru/vacancy/101917189"
+    },
+    {
+        "name": "Менеджер чатов (без звонков)",
+        "area": "Ярославль",
+        "salary_from": 30000,
+        "salary_to": 40000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-05-23T09:59:52+0300",
+        "alternate_url": "https://hh.ru/vacancy/78894202"
+    },
+    {
+        "name": "Психолог",
+        "area": "Москва",
+        "salary_from": 78000,
+        "salary_to": 83000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-13T14:28:36+0300",
+        "alternate_url": "https://hh.ru/vacancy/101860383"
+    },
+    {
+        "name": "Личный водитель руководителя",
+        "area": "Алматы",
+        "salary_from": 450000,
+        "salary_to": null,
+        "currency": "KZT",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-16T09:33:50+0300",
+        "alternate_url": "https://hh.ru/vacancy/101479491"
+    },
+    {
+        "name": "Специалист отдела кадров",
+        "area": "Москва",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-12T08:05:56+0300",
+        "alternate_url": "https://hh.ru/vacancy/101776071"
+    },
+    {
+        "name": "Технически директор / Главный инженер",
+        "area": "Москва",
+        "salary_from": 300000,
+        "salary_to": 600000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-15T14:07:29+0300",
+        "alternate_url": "https://hh.ru/vacancy/101789372"
+    },
+    {
+        "name": "Директор по информационным технологиям",
+        "area": "Ростов-на-Дону",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-13T10:31:30+0300",
+        "alternate_url": "https://hh.ru/vacancy/101832484"
+    },
+    {
+        "name": "Помощник по хозяйству (управляющий), водитель",
+        "area": "Минск",
+        "salary_from": 2000,
+        "salary_to": 3000,
+        "currency": "BYR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-16T13:55:28+0300",
+        "alternate_url": "https://hh.ru/vacancy/102022346"
+    },
+    {
+        "name": "Sales Director",
+        "area": "Москва",
+        "salary_from": 500000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-14T14:31:48+0300",
+        "alternate_url": "https://hh.ru/vacancy/101942385"
+    },
+    {
+        "name": "Заместитель начальника отдела безопасности",
+        "area": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-10T10:46:52+0300",
+        "alternate_url": "https://hh.ru/vacancy/101619633"
+    },
+    {
+        "name": "Семейный водитель",
+        "area": "Астана",
+        "salary_from": null,
+        "salary_to": 350000,
+        "currency": "KZT",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-05-20T12:57:30+0300",
+        "alternate_url": "https://hh.ru/vacancy/98672060"
+    },
+    {
+        "name": "Главный специалист - делопроизводитель",
+        "area": "Москва",
+        "salary_from": 130000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T10:45:01+0300",
+        "alternate_url": "https://hh.ru/vacancy/101714148"
+    },
+    {
+        "name": "Личный ассистент / помощник (2 часа в день, удалённо)",
+        "area": "Тула",
+        "salary_from": 12000,
+        "salary_to": 15000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-11T23:39:12+0300",
+        "alternate_url": "https://hh.ru/vacancy/101766690"
+    },
+    {
+        "name": "Главный бухгалтер",
+        "area": "Бишкек",
+        "salary_from": 170000,
+        "salary_to": null,
+        "currency": "KGS",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-13T07:19:27+0300",
+        "alternate_url": "https://hh.ru/vacancy/101814532"
+    },
+    {
+        "name": "Финансовый директор",
+        "area": "Москва",
+        "salary_from": 400000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T10:01:03+0300",
+        "alternate_url": "https://hh.ru/vacancy/101706681"
+    },
+    {
+        "name": "Личный водитель ( автомобиль компании )",
+        "area": "Санкт-Петербург",
+        "salary_from": 80000,
+        "salary_to": 80000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-14T01:07:59+0300",
+        "alternate_url": "https://hh.ru/vacancy/101891020"
+    },
+    {
+        "name": "Начальник смены/мастер/рабочий",
+        "area": "Киржач",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "Нет опыта",
+        "published_at": "2024-05-22T17:14:24+0300",
+        "alternate_url": "https://hh.ru/vacancy/99862771"
+    },
+    {
+        "name": "Управляющий отелем",
+        "area": "Сортавала",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-13T13:24:45+0300",
+        "alternate_url": "https://hh.ru/vacancy/101852381"
+    },
+    {
+        "name": "Исполнительный директор (производственная компания)",
+        "area": "Москва",
+        "salary_from": 500000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-11T16:32:41+0300",
+        "alternate_url": "https://hh.ru/vacancy/101753756"
+    },
+    {
+        "name": "Личный водитель-охранник",
+        "area": "Санкт-Петербург",
+        "salary_from": 110000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-16T11:32:52+0300",
+        "alternate_url": "https://hh.ru/vacancy/102018794"
+    },
+    {
+        "name": "Менеджер отдела продаж (МОП)",
+        "area": "Москва",
+        "salary_from": 70000,
+        "salary_to": 180000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-28T06:47:33+0300",
+        "alternate_url": "https://hh.ru/vacancy/100444249"
+    },
+    {
+        "name": "Офис-менеджер",
+        "area": "Алматы",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-05T13:23:54+0300",
+        "alternate_url": "https://hh.ru/vacancy/101342480"
+    },
+    {
+        "name": "Офис-менеджер",
+        "area": "Ташкент",
+        "salary_from": 5000000,
+        "salary_to": 7000000,
+        "currency": "UZS",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-16T14:05:59+0300",
+        "alternate_url": "https://hh.ru/vacancy/101857129"
+    },
+    {
+        "name": "Дистанционный клиентский менеджер",
+        "area": "Воронеж",
+        "salary_from": 75100,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-03T11:40:00+0300",
+        "alternate_url": "https://hh.ru/vacancy/98605197"
+    },
+    {
+        "name": "Исполнительный директор",
+        "area": "Якутск",
+        "salary_from": 250000,
+        "salary_to": 400000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-13T04:14:23+0300",
+        "alternate_url": "https://hh.ru/vacancy/101808728"
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "area": "Астана",
+        "salary_from": 320000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-06T07:58:20+0300",
+        "alternate_url": "https://hh.ru/vacancy/101388022"
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "area": "Москва",
+        "salary_from": 120000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-10T13:56:16+0300",
+        "alternate_url": "https://hh.ru/vacancy/101639865"
+    },
+    {
+        "name": "Финансовый директор (CFO)",
+        "area": "Зеленоград",
+        "salary_from": 400000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-15T17:20:48+0300",
+        "alternate_url": "https://hh.ru/vacancy/101795298"
+    },
+    {
+        "name": "Оператор в WhatsApp",
+        "area": "Москва",
+        "salary_from": 10000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-05-25T22:13:47+0300",
+        "alternate_url": "https://hh.ru/vacancy/100183951"
+    },
+    {
+        "name": "Заместитель генерального директора по безопасности",
+        "area": "Москва",
+        "salary_from": 140000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-10T15:07:41+0300",
+        "alternate_url": "https://hh.ru/vacancy/101647669"
+    },
+    {
+        "name": "Секретарь на ресепшн",
+        "area": "Москва",
+        "salary_from": 110000,
+        "salary_to": 150000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-28T11:22:16+0300",
+        "alternate_url": "https://hh.ru/vacancy/100475628"
+    },
+    {
+        "name": "Водитель-экспедитор автомобиля",
+        "area": "Алматы",
+        "salary_from": 450000,
+        "salary_to": 600000,
+        "currency": "KZT",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T16:18:57+0300",
+        "alternate_url": "https://hh.ru/vacancy/101752507"
+    },
+    {
+        "name": "Финансовый директор",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-13T18:07:52+0300",
+        "alternate_url": "https://hh.ru/vacancy/101880810"
+    },
+    {
+        "name": "Оператор call-центра",
+        "area": "Рязань",
+        "salary_from": null,
+        "salary_to": 48000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-10T07:21:19+0300",
+        "alternate_url": "https://hh.ru/vacancy/95815002"
+    },
+    {
+        "name": "Продавец-консультант (г. Москва)",
+        "area": "Москва",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T10:27:49+0300",
+        "alternate_url": "https://hh.ru/vacancy/100691169"
+    },
+    {
+        "name": "Директор по экономике и финансам",
+        "area": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-10T14:01:47+0300",
+        "alternate_url": "https://hh.ru/vacancy/101640444"
+    },
+    {
+        "name": "Водитель категории В (Соболь)",
+        "area": "Уфа",
+        "salary_from": 90000,
+        "salary_to": 100000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-11T12:14:34+0300",
+        "alternate_url": "https://hh.ru/vacancy/101731034"
+    },
+    {
+        "name": "Личный водитель",
+        "area": "Челябинск",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-11T13:11:29+0300",
+        "alternate_url": "https://hh.ru/vacancy/101736277"
+    },
+    {
+        "name": "Сотрудник в отдел кадров",
+        "area": "Бишкек",
+        "salary_from": 33000,
+        "salary_to": null,
+        "currency": "KGS",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-20T10:11:50+0300",
+        "alternate_url": "https://hh.ru/vacancy/99546190"
+    },
+    {
+        "name": "Директор по закупкам",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T09:35:45+0300",
+        "alternate_url": "https://hh.ru/vacancy/101655469"
+    },
+    {
+        "name": "Персональный водитель",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-11T13:57:34+0300",
+        "alternate_url": "https://hh.ru/vacancy/101740526"
+    },
+    {
+        "name": "Топ менеджер",
+        "area": "Ташкент",
+        "salary_from": 15000000,
+        "salary_to": 30000000,
+        "currency": "UZS",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T07:56:34+0300",
+        "alternate_url": "https://hh.ru/vacancy/101692477"
+    },
+    {
+        "name": "Начальник юридического отдела",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T16:06:35+0300",
+        "alternate_url": "https://hh.ru/vacancy/101751599"
+    },
+    {
+        "name": "Переводчик по локализации контента",
+        "area": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-11T12:19:14+0300",
+        "alternate_url": "https://hh.ru/vacancy/101731429"
+    },
+    {
+        "name": "Офис-менеджер в Швейцарскую компанию",
+        "area": "Алматы",
+        "salary_from": 200000,
+        "salary_to": null,
+        "currency": "KZT",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-07T12:31:58+0300",
+        "alternate_url": "https://hh.ru/vacancy/100602897"
+    },
+    {
+        "name": "Советник",
+        "area": "Южно-Сахалинск",
+        "salary_from": 86102,
+        "salary_to": 164708,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T12:04:41+0300",
+        "alternate_url": "https://hh.ru/vacancy/101925737"
+    },
+    {
+        "name": "Управляющий многофункциональным комплексом «Новая Бакалда»",
+        "area": "Волгоград",
+        "salary_from": null,
+        "salary_to": 500000,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-14T17:22:12+0300",
+        "alternate_url": "https://hh.ru/vacancy/99483527"
+    },
+    {
+        "name": "Специалист по проверке документов",
+        "area": "Тольятти",
+        "salary_from": 25575,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-11T16:48:53+0300",
+        "alternate_url": "https://hh.ru/vacancy/101067606"
+    },
+    {
+        "name": "Младший менеджер по маркетплейсам / Ассистент Wildberries",
+        "area": "Новосибирск",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-16T11:51:33+0300",
+        "alternate_url": "https://hh.ru/vacancy/101626668"
+    },
+    {
+        "name": "Начальник юридического отдела",
+        "area": "Москва",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "currency": "RUR",
+        "experience": "Более 6 лет",
+        "published_at": "2024-06-16T17:29:42+0300",
+        "alternate_url": "https://hh.ru/vacancy/101661606"
+    },
+    {
+        "name": "Директор завода",
+        "area": "Челябинск",
+        "salary_from": 200000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-11T18:51:49+0300",
+        "alternate_url": "https://hh.ru/vacancy/101760429"
+    },
+    {
+        "name": "Продавец-кассир в modi fun shop г.Москва",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "Нет опыта",
+        "published_at": "2024-06-01T05:26:30+0300",
+        "alternate_url": "https://hh.ru/vacancy/98341178"
+    },
+    {
+        "name": "Начальник финансово-экономического отдела",
+        "area": "Ростов-на-Дону",
+        "salary_from": 174000,
+        "salary_to": null,
+        "currency": "RUR",
+        "experience": "От 3 до 6 лет",
+        "published_at": "2024-06-13T16:54:20+0300",
+        "alternate_url": "https://hh.ru/vacancy/101875907"
+    },
+    {
+        "name": "Ассистент в отдел кадров на блок отпуска (удаленно)",
+        "area": "Москва",
+        "salary_from": 47000,
+        "salary_to": 47000,
+        "currency": "RUR",
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-06-14T09:33:44+0300",
+        "alternate_url": "https://hh.ru/vacancy/101909579"
+    },
+    {
+        "name": "Ассистент отдела маркетинга",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null,
+        "experience": "От 1 года до 3 лет",
+        "published_at": "2024-05-27T10:08:10+0300",
+        "alternate_url": "https://hh.ru/vacancy/93650962"
+    },
+    {
+        "name": "Младший переводчик",
+        "area": "Москва",
+        "salary_from": null,
+        "salary_to": 120000,
+        "currency": "RUR",
+        "experience": "Нет опыта",
+        "published_at": "2024-06-14T16:40:47+0300",
+        "alternate_url": "https://hh.ru/vacancy/101754251"
+    }
+]

@@ -1,16 +1,19 @@
-import json
-
-import requests
-
-from settings import VACANCIES, URL
+from classes.classes import Vacancy
 
 
-def write_data_to_file(url: str = URL, path: str = VACANCIES) -> list[dict]:
-    """Запись данных в файл"""
-    with open(path, "w", encoding="utf-8") as file:
-        json_data = requests.get(url).json()
-        json.dump(json_data, file, ensure_ascii=False, indent=4)
-    return json_data
+def sorted_vacancies_by_date(vacancies: list[Vacancy]) -> list[Vacancy]:
+    """
+    Сортирует список вакансий по дате публикации.
+    :param vacancies: Список экземпляров класса Vacancy.
+    :return: Отсортированный список экземпляров класса Vacancy.
+    """
+    return sorted(vacancies)
 
 
-
+def sorted_vacancies_by_salary(vacancies: list[Vacancy]) -> list[Vacancy]:
+    """
+    Сортирует список вакансий по зарплате (от меньшей к большей).
+    :param vacancies: Список экземпляров класса Vacancy.
+    :return: Отсортированный список экземпляров класса Vacancy.
+    """
+    return sorted(vacancies, key=lambda x: (x.salary_from or float('inf')))
