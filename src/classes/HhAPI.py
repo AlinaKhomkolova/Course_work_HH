@@ -26,7 +26,11 @@ class HhAPI(BaseAPIABC):
         # Заголовки запросов.
         self.headers = {'User-Agent': 'HH-User-Agent'}
         # Параметры запроса (текст поиска, номер страницы, количество вакансий на странице).
-        self.params = {'text': '', 'page': 0, 'per_page': 10}
+        self.params = {
+            'text': '',
+            'page': 0,
+            'per_page': 10
+        }
 
     def get_vacancies(self, keyword, count_page) -> list[Vacancy]:
         """Получает список вакансий по ключевому слову и количеству страниц."""

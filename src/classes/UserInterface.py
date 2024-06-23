@@ -10,6 +10,10 @@ class UserInterface:
         """Получает ввод пользователя для поиска вакансий."""
         try:
             self.search_by_request = input("Введите название профессии, должность или компанию:\n")
+            if self.search_by_request == '':
+                self.display_error('Поисковой запрос не задан.')
+                return None, None
+
             self.count_page = int(input("Сколько страниц вы хотите просмотреть?\n"
                                         "(На одной странице располагается 10 вакансий)\n"))
             return self.search_by_request, self.count_page
