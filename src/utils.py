@@ -1,4 +1,4 @@
-from classes.Vacancy import Vacancy
+from src.classes.Vacancy import Vacancy
 
 
 def sorted_vacancies_by_date(vacancies: list[Vacancy]) -> list[Vacancy]:

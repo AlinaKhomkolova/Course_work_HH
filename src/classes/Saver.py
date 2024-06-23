@@ -1,10 +1,24 @@
 import json
+from abc import ABC, abstractmethod
 
 from settings import VACANCIES_TXT, VACANCIES_JSON
-from classes.ABC_classes import JSONSaver
 
 
-class WritingReadingData(JSONSaver):
+class JSONSaverABC(ABC):
+    """Абстрактный класс для записи в JSON и чтения данных"""
+
+    @abstractmethod
+    def read_data(self, path: str = VACANCIES_JSON):
+        """Чтение данные в JSON файл"""
+        pass
+
+    @staticmethod
+    def writing_data(data: list, path: str = VACANCIES_JSON):
+        """Запись данные в JSON файл"""
+        pass
+
+
+class WritingReadingData(JSONSaverABC):
 
     def read_data(self, path: str = VACANCIES_JSON) -> list[dict]:
         """

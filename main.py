@@ -1,8 +1,8 @@
 import requests
 
-from classes.HhAPI import HhAPI
-from classes.Saver import WritingReadingData
-from classes.UserInterface import UserInterface
+from src.classes.HhAPI import HhAPI
+from src.classes.Saver import WritingReadingData
+from src.classes.UserInterface import UserInterface
 from src.utils import sorted_vacancies_by_date, sorted_vacancies_by_salary
 
 

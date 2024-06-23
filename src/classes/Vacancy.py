@@ -16,12 +16,36 @@ class Vacancy:
         self.__alternate_url: str = alternate_url  # Ссылка на вакансию.
 
     @property
-    def salary_from(self) -> int or None:
+    def get_name(self) -> str:
+        return self.__name
+
+    @property
+    def get_area(self) -> str:
+        return self.__area
+
+    @property
+    def get_salary_from(self) -> int or None:
         return self.__salary_from
 
     @property
-    def salary_to(self) -> int or None:
+    def get_salary_to(self) -> int or None:
         return self.__salary_to
+
+    @property
+    def get_currency(self) -> str or None:
+        return self.__currency
+
+    @property
+    def get_experience(self) -> str or None:
+        return self.__experience
+
+    @property
+    def get_published_at(self) -> str:
+        return self.__published_at
+
+    @property
+    def get_alternate_url(self) -> str:
+        return self.__alternate_url
 
     def to_dict(self) -> dict:
         """Преобразует объект в словарь."""
@@ -60,7 +84,7 @@ class Vacancy:
         """Определяет оператор '>' для сравнения по дате публикации."""
         return self.__published_at > other.__published_at
 
-    def __lt__salary(self, other) -> bool:
+    def lt__salary(self, other) -> bool:
         """Определяет оператор '<' для сравнения по зарплате."""
         if self.__salary_from is None:
             return False
@@ -68,7 +92,7 @@ class Vacancy:
             return True
         return self.__salary_from < other.__salary_from
 
-    def __gt__salary(self, other) -> bool:
+    def gt__salary(self, other) -> bool:
         """Определяет оператор '>' для сравнения по зарплате."""
         if self.__salary_from is None:
             return True
