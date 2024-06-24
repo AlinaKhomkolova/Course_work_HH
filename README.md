@@ -45,7 +45,7 @@ cd Course_work_HH
 #### Создать виртуальное окружение:
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 ```
 
 #### Активировать виртуальное окружение:
