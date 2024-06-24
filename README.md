@@ -35,7 +35,7 @@
 #### Клонирование проекта:
 
 ```bash
-git clone @github.com:AlinaKhomkolova/Coursework.git
+git clone git@github.com:AlinaKhomkolova/Course_work_HH.git
 ```
 
 ```bash
