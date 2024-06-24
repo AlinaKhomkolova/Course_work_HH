@@ -9,7 +9,7 @@ class UserInterface:
     def get_user_input(self):
         """Получает ввод пользователя для поиска вакансий."""
         try:
-            self.search_by_request = input("Введите название профессии, должность или компанию:\n")
+            self.search_by_request = input("Введите название профессии, должность или компанию:\n").strip()
             if self.search_by_request == '':
                 self.display_error('Поисковой запрос не задан.')
                 return None, None
