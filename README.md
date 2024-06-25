@@ -70,4 +70,9 @@ pip install -r requirements.txt
 
 #### Открыть проект в PyCharm.
 
+### Запуск программы
+- Запустите файл main.py.
+```bash
+python3 main.py
+```
 Автор проекта Хомколова Алина
